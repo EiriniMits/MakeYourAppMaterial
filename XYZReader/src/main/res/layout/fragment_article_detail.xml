@@ -123,7 +123,7 @@
         android:layout_gravity="bottom|end"
         android:layout_margin="@dimen/detail_inner_horiz_margin"
         android:src="@drawable/ic_share"
-        app:elevation="@dimen/elevation"
+        app:elevation="@dimen/fab_elevation"
         app:fabSize="normal"
         app:pressedTranslationZ="12dp" />
 

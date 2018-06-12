@@ -40,3 +40,5 @@ Kagure says:
 “The color scheme is really sad and I shouldn't feel sad.”
 
 ## Screenshots
+
+![rsz_screenshot_1528744583](https://user-images.githubusercontent.com/16197563/41281873-3002062a-6e3b-11e8-9227-042cf40b66a2.png) ![rsz_screenshot_1528744558](https://user-images.githubusercontent.com/16197563/41281871-2fa4af0c-6e3b-11e8-950e-1240d594757e.png) ![rsz_screenshot_1528744568](https://user-images.githubusercontent.com/16197563/41281872-2fdcd454-6e3b-11e8-8ab7-d64aba5825d7.png)

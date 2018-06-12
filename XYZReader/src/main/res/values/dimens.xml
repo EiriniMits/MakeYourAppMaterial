@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- detail -->
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+    <item name="title_lineSpacingMultiplier" type="dimen" format="float">0.9</item>
+    <dimen name="fab_elevation">6dp</dimen>
+    <dimen name="fab_press_translation_z">6dp</dimen>
+    <dimen name="fab_margin">24dp</dimen>
+    <dimen name="fab_size">50dp</dimen>
+    <dimen name="height">300dp</dimen>
+    <dimen name="height2">150dp</dimen>
+    <dimen name="height3">100dp</dimen>
+    <dimen name="zero">0dp</dimen>
+    <integer name="one">1</integer>
+    <dimen name="progressbar">40dp</dimen>
+    <dimen name="elevation">4dp</dimen>
+    <dimen name="margin">6dp</dimen>
+    <dimen name="radius">5dp</dimen>
+
+</resources>

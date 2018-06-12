@@ -19,7 +19,7 @@
     <color name="photo_placeholder">#ccc</color>
     <color name="colorPrimary">#3eb5e1</color>
     <color name="colorPrimaryDark">#068aa7</color>
-    <color name="colorAccent">#3eb5e1</color>
+    <color name="colorAccent">#d81b60</color>
     <color name="colorPrimaryText">#de000000</color>
     <color name="colorSecondaryText">#8a000000</color>
     <color name="white">#fff</color>
